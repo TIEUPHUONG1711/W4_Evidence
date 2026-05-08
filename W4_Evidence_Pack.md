@@ -43,7 +43,9 @@ Question: Who is Team Platform lead?
 Answer: Alex Chen
 Source: team_platform.md
 
-📸 Screenshot:
+📸 Screenshot:<img width="853" height="355" alt="image" src="https://github.com/user-attachments/assets/0427d245-9b38-476b-88f5-afc6baadbbba" />
+
+
 
 chat UI OR terminal response
 
@@ -88,7 +90,8 @@ $16,500
 Final Answer:
 PaymentGW Q1 cost = $16,500
 
-📸 BẮT BUỘC screenshot:
+📸 BẮT BUỘC screenshot: <img width="1196" height="614" alt="image" src="https://github.com/user-attachments/assets/27af5790-aefa-4f5a-80c7-a9ea7fbdbc11" />
+
 
 log tool call
 hoặc terminal showing SQL execution
@@ -99,14 +102,17 @@ hoặc terminal showing SQL execution
 Turn 1:
 Which service had highest cost?
 → PaymentGW
+<img width="1183" height="585" alt="image" src="https://github.com/user-attachments/assets/426dc72f-a294-447b-9054-4cd0b506969f" />
 
 Turn 2:
 Why did its cost increase?
 → Traffic spike + infra scaling
+<img width="1201" height="527" alt="image" src="https://github.com/user-attachments/assets/c8182d6a-b2e1-405d-b060-4075f5da98f6" />
 
 Turn 3:
 Which team owns it?
 → Team Payments
+<img width="348" height="649" alt="image" src="https://github.com/user-attachments/assets/1b456f2a-6a03-4be3-b8e9-16e475e3b892" />
 
 📸 Screenshot:
 
@@ -122,7 +128,8 @@ Screenshot shows:
 - tool executed
 - final output
 
-📸 Cực quan trọng:
+📸 Cực quan trọng: ![Uploading image.png…]()
+
 
 dashboard của bạn (frontend observation page)
 #### 9. Reflection
